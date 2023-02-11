@@ -1,3 +1,19 @@
+# News Headlines!!
+
+![image](https://user-images.githubusercontent.com/85755852/218234030-d3839745-fe0e-4818-b337-5e534b7b631d.png)
+
+# Project Description
+
+A "News Headlines" project using React would involve building a web application that collects and displays the latest news articles and summarizes them into headlines. React is a JavaScript library for building user interfaces, and it is well-suited for building dynamic, interactive web applications. In this project, the news articles could be fetched from an API and displayed in a visually appealing manner, with the headlines and accompanying descriptions.
+
+# Requirements
+
+* React
+* React functional components
+* Props
+* State
+* API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
